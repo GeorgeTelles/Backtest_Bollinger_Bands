@@ -23,25 +23,5 @@ As Bandas de Bollinger são uma ferramenta de análise técnica criada por John 
 - **Avaliação de Desempenho**: Medir o desempenho das estratégias usando métricas como retorno total, drawdown, e outras métricas financeiras relevantes.
 - **Visualização**: Gerar gráficos para visualizar os preços dos ativos, as Bandas de Bollinger e os sinais de compra/venda.
 
-## Tecnologias Utilizadas
 
-- **Linguagem**: Python
-- **Bibliotecas**:
-  - `pandas` para manipulação de dados
-  - `numpy` para cálculos numéricos
-  - `matplotlib` e `seaborn` para visualização
-  - `requests` ou `yfinance` para coleta de dados financeiros
-- **Ambiente de Desenvolvimento**: Jupyter Notebook ou IDE de sua escolha
 
-## Estrutura do Projeto
-
-1. **Data Collection**: Scripts para importar e limpar dados financeiros.
-2. **Bollinger Bands Calculation**: Implementação dos cálculos das bandas superior e inferior.
-3. **Backtesting Engine**: Lógica para simulação de estratégias de negociação e avaliação de desempenho.
-4. **Visualization**: Ferramentas para criar gráficos e relatórios.
-
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/projeto-bollinger-backtesting.git
