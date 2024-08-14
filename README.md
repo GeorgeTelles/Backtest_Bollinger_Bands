@@ -23,5 +23,6 @@ As Bandas de Bollinger são uma ferramenta de análise técnica criada por John 
 - **Avaliação de Desempenho**: Medir o desempenho das estratégias usando métricas como retorno total, drawdown, e outras métricas financeiras relevantes.
 - **Visualização**: Gerar gráficos para visualizar os preços dos ativos, as Bandas de Bollinger e os sinais de compra/venda.
 
+![Descrição da Imagem](https://github.com/GeorgeTelles/backtest_bollinger_bands/blob/b8cbe5123607acb6d7618d58ded20a157d99c83e/newplot%20(1).png)
 
 
